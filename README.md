@@ -3,9 +3,11 @@ App for InspectBot (v1)
 
 INSPECTBOT V1
 App named SBotApp
-
 Created by Liall Arafa 18/04/17 
+Queen Mary University London
+Undergraduate Project
 
+Please read the thesis included in the project for more detailed information. 
 
 
 PROJECT AIMS:
