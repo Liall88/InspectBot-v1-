@@ -7,7 +7,8 @@ Created by Liall Arafa 18/04/17
 Queen Mary University London
 Undergraduate Project
 
-Please read the thesis included in the project for more detailed information. 
+Please read the undergraduate final report included in the project for more detailed information:
+https://drive.google.com/file/d/1sesl1gcjUtmMYMhA7vVX9QtUGLriM34J/view?usp=sharing
 
 
 PROJECT AIMS:
