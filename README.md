@@ -43,7 +43,7 @@ TO TEST: download SBotApp.apk and run on target device.
 
 CONTRIBUTORS: Code built upon WheelPhone, OpenCV and ZXing code examples
 
-FOR MORE INFORMATION AND SUPPORT: contact liall88@gmail.com, facebook Liall Arafa
+FOR MORE INFORMATION AND SUPPORT: contact liall88@gmail.com
 
 
 
